@@ -15,7 +15,6 @@ Como recursos adicionais para a edição das imagens, como por exemplo a retirad
 ## Autores
 * Vítor Ribeiro ([MrVtR](https://github.com/mrVtR))
 
-## Imagens/screenshots
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrVtR/Bravely_Default_Image_DB/main/Cartridge%20Covers/bravely-euCover.jpg">
