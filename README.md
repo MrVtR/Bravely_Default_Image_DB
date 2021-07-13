@@ -12,6 +12,13 @@ Como recursos adicionais para a edição das imagens, como por exemplo a retirad
 2. Editei algumas imagens para retirar o fundo branco e deixá-los transparentes.
 3. Fiz o upload das imagens no reposiório do Github
 
+## To-Do List
+- [x] Adicionar fotos das capas do jogo
+- [x] Adicionar fotos dos personagens principais
+- [x] Adicionar fotos das Organizações de vilões
+- [ ] Adicionar fotos individuais dos vilões do jogo
+- [ ] Adicionar fotos dos cenários importantes que o jogador irá visitar
+
 ## Autores
 * Vítor Ribeiro ([MrVtR](https://github.com/mrVtR))
 
